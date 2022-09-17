@@ -1,0 +1,37 @@
+{
+  "Decision Tree": {
+    "Accuracy": "75.74",
+    "Precision": "74.07",
+    "Recall": "75.00",
+    "F1": "74.53",
+    "AUC": "75.70"
+  },
+  "Logistic Regression": {
+    "Accuracy": "72.19",
+    "Precision": "64.86",
+    "Recall": "90.00",
+    "F1": "75.39",
+    "AUC": "73.09"
+  },
+  "Bayes": {
+    "Accuracy": "78.11",
+    "Precision": "70.87",
+    "Recall": "91.25",
+    "F1": "79.78",
+    "AUC": "78.77"
+  },
+  "KNN": {
+    "Accuracy": "63.91",
+    "Precision": "61.73",
+    "Recall": "62.50",
+    "F1": "62.11",
+    "AUC": "63.83"
+  },
+  "SVM": {
+    "Accuracy": "46.15",
+    "Precision": "46.67",
+    "Recall": "96.25",
+    "F1": "62.86",
+    "AUC": "48.69"
+  }
+}
