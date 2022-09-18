@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46391678-6d41-4d5d-9856-7dce1e3c2b1f" name="Changes" comment="" />
+    <list default="true" id="46391678-6d41-4d5d-9856-7dce1e3c2b1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PredictWebProject/.idea/PredictWebProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/DTmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/KNNmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/LRmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/SVMmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModels/Bmodel" beforeDir="false" afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/Bmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModels/DTmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/DTmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModels/KNNmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/KNNmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModels/LRmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/LRmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModels/SVMmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/SVMmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extractData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/extractData.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +29,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Es7sYzdMxCwusaqnG9GEQpxo0R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -44,10 +63,22 @@
       <option name="presentableId" value="Default" />
       <updated>1663372644432</updated>
       <workItem from="1663372652900" duration="1433000" />
+      <workItem from="1663465099506" duration="2934000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

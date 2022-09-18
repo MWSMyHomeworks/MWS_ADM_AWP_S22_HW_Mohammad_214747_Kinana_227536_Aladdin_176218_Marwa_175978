@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="262e9466-c4ae-4c34-a8ff-0fb46fd06426" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PredictWebProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_app/TrainedModels/DTmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_app/TrainedModels/KNNmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_app/TrainedModels/LRmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_app/TrainedModels/SVMmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrainModels/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainModels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/TrainedModels/Bmodel" beforeDir="false" afterPath="$PROJECT_DIR$/api_app/TrainedModels/Bmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/TrainedModels/DTmodel" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainModels/TrainedModels/DTmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/TrainedModels/KNNmodel" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainModels/TrainedModels/KNNmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/TrainedModels/LRmodel" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainModels/TrainedModels/LRmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/TrainedModels/SVMmodel" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainModels/TrainedModels/SVMmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainModels/extractData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainModels/extractData.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Ev9weU2AuvP1JSsx9jghHyzpII" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Mohammad Hammad/Documents/Projects/PycharmProjects/MWS_ADM_S22_HW_Mohammad_214747_Kinana_227536_Aladdin_176218_Marwa_175978/DataMining/PredictWebProject/api_app"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohammad Hammad\Documents\Projects\PycharmProjects\MWS_ADM_S22_HW_Mohammad_214747_Kinana_227536_Aladdin_176218_Marwa_175978\DataMining\PredictWebProject\api_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PredictWebProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PredictWebProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="PredictWebProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262e9466-c4ae-4c34-a8ff-0fb46fd06426" name="Changes" comment="" />
+      <created>1663465430847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663465430847</updated>
+      <workItem from="1663465432431" duration="4795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

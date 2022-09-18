@@ -9,7 +9,7 @@
 - C#, .Net 6, ASP
 - JavaScript, Jquery
 - HTML5, CSS3, Bootstrap
-- Python
+- Python, Django, Sklearn
 
 ## Installation Progress
 &emsp; Not ready yet.
