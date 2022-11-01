@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46391678-6d41-4d5d-9856-7dce1e3c2b1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PredictWebProject/.idea/PredictWebProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/DTmodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/KNNmodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/LRmodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/SVMmodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GenerateCSharpCodeFromModels.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainedModels/Bmodel" beforeDir="false" afterPath="$PROJECT_DIR$/../PredictWebProject/api_app/TrainedModels/Bmodel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainedModels/Bmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/Bmodel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainedModels/DTmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/DTmodel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainedModels/KNNmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/KNNmodel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainedModels/LRmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/LRmodel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainedModels/SVMmodel" beforeDir="false" afterPath="$PROJECT_DIR$/TrainedModels/SVMmodel" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extractData.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/extractData.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporcessData_train_save_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reporcessData_train_save_models.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mohammad Hammad\Documents\Projects\PycharmProjects\MWS_ADM_S22_HW_Mohammad_214747_Kinana_227536_Aladdin_176218_Marwa_175978\DataMining\TrainModels" />
@@ -64,6 +60,8 @@
       <updated>1663372644432</updated>
       <workItem from="1663372652900" duration="1433000" />
       <workItem from="1663465099506" duration="2934000" />
+      <workItem from="1664573767317" duration="5749000" />
+      <workItem from="1665113541236" duration="45000" />
     </task>
     <servers />
   </component>

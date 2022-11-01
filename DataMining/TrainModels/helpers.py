@@ -32,6 +32,16 @@ def printScores(scores, withHeader=False):
 
 
 # noinspection PyPep8Naming
+def saveModel(fileName, model):
+    folder = 'TrainedModels'
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+    file = open(f'{folder}/{fileName}', 'wb')
+    pickle.dump(model, file)
+    file.close()
+
+
+# noinspection PyPep8Naming
 def printAllScores(allScores):
     table = '{:10} '.format("")
     for key in allScores:
@@ -70,12 +80,3 @@ def getScoresJsonObjectFromSavedFile(fileName):
     scores = json.load(openedFile)
     return scores
 
-
-# noinspection PyPep8Naming
-def saveModel(fileName, model):
-    folder = 'TrainedModels'
-    if not os.path.exists(folder):
-        os.makedirs(folder)
-    file = open(f'{folder}/{fileName}', 'wb')
-    pickle.dump(model, file)
-    file.close()
